@@ -1,2 +1,3 @@
 # Madopskrifter
-Alt!
+
+## Samling af madopskrifter
